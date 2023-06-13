@@ -3,4 +3,7 @@ demo repo
 
 ## Introduction ##
 Lorem ipsum
-sample tex
+sample text
+
+## Branch demo
+Added to demonstrate making changes on a branch
